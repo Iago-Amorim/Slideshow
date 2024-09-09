@@ -18,13 +18,14 @@ Este projeto implementa um carrossel de imagens simples usando HTML, CSS e JavaS
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Iago-Amorim/Slideshow
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd seu-repositorio
+   cd Slideshow
+
    ```
 
 3. Abra o arquivo `index.html` no seu navegador.
